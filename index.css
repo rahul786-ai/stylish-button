@@ -1,0 +1,34 @@
+body{
+    background: #E0E5EC;
+}
+h1{
+    position: relative;
+    text-align: center;
+    color: #353535;
+    font-size: 50px;
+    
+}
+p{
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    text-align: center;
+    font-size: 18px;
+    color: #676767;
+}
+.frame{
+    width: 90%;
+    margin: 40px auto;
+    text-align: center;
+}
+button{
+    margin: 20px;
+}
+.custom-btn{
+    width: 130px;
+    height: 40px;
+    color: rgb(228, 178, 178);
+    border-radius: 5px;
+}
+btn-1{
+    background: rgb(6,14,131);
+}
