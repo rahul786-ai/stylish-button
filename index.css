@@ -167,7 +167,7 @@ height: 0%;
 width: 0%;
 height: .1px;
 }
-.btn-4 span:hover:before {
+.btn-4 span:hover::before {
 height: 100%;
 }
 .btn-4 span:hover:after {
